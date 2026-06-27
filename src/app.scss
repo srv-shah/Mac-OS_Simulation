@@ -1,0 +1,20 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; /* Ensures consistent box model across elements */
+}
+
+html, body, #root {
+    height: 100%;
+    width: 100%;
+}
+main{
+    height: 100%;
+    width: 100%;
+    background-image: url(../public/evgeni-tcherkasski-kow5jLC9IPI-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+
+    position: relative;
+    overflow: hidden;
+}
