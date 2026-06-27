@@ -10,13 +10,13 @@ const Nav = () => {
             <div className="nav-items">
                 <p>Saurav Kumar</p>
             </div>
-            <div className="nav-items">
+            <div className="nav-items goto">
                 <p>Files</p>
             </div>
-            <div className="nav-items">
+            <div className="nav-items goto">
                 <p>Window</p>
             </div>
-            <div className="nav-items">
+            <div className="nav-items goto">
                 <p>Terminal</p>
             </div>
         </div>

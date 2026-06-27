@@ -75,3 +75,15 @@
     }
 
 }
+
+
+@media (max-width: 768px) {
+    .dock{
+        gap: 0.5rem;
+
+        .icon{
+            width: 2.75rem;
+        }
+    }
+    
+}
